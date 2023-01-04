@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:sahibinden_tasarim/HomePage.dart';
-import 'package:sahibinden_tasarim/deneme.dart';
 
 void main() {
   runApp(const MyApp());
